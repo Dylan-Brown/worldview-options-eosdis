@@ -1,0 +1,12 @@
+{
+    "products": {
+        "WELDUSMO": {
+            "name": "NASA Web-Enabled Landsat Data CONUS 30m Composites over Monthly Periods",
+            "handler": "List",
+            "query": {
+                "shortName": "WELDUSMO",
+                "dataCenterId": "LPDAAC"
+            }
+        }
+    }
+}

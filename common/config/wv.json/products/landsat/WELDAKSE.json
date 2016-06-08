@@ -1,0 +1,12 @@
+{
+    "products": {
+        "WELDAKSE": {
+            "name": "NASA Web-Enabled Landsat Data Alaska 30m Composites over Seasonal Periods",
+            "handler": "List",
+            "query": {
+                "shortName": "WELDAKSE",
+                "dataCenterId": "LPDAAC"
+            }
+        }
+    }
+}
