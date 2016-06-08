@@ -5,7 +5,7 @@
             "title":    "Corrected Reflectance (True Color, Alaska, Seasonal)",
             "subtitle": "Landsat / WELD",
             "tags":     "",
-            "group":    "overlays",
+            "group":    "baselayers",
             "product":  "WELDAKSE"
         }
     }

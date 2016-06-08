@@ -5,7 +5,7 @@
             "title":    "Corrected Reflectance (True Color, CONUS, Monthly)",
             "subtitle": "Landsat / WELD",
             "tags":     "",
-            "group":    "overlays",
+            "group":    "baselayers",
             "product":  "WELDUSMO"
         }
     }
